@@ -1,0 +1,30 @@
+PODS:
+  - GSImageViewerController (1.4.1)
+  - HPGrowingTextView (1.1)
+  - NoChat (0.3.2)
+  - NOCProtoKit (0.3.2)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - GSImageViewerController
+  - HPGrowingTextView
+  - NoChat (from `../../`)
+  - NOCProtoKit (from `../`)
+  - YYText
+
+EXTERNAL SOURCES:
+  NoChat:
+    :path: ../../
+  NOCProtoKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GSImageViewerController: 84a3145d7e4ff94399293ba61949215c7c582dc1
+  HPGrowingTextView: 88a716d97fb853bcb08a4a08e4727da17efc9b19
+  NoChat: aaa980b8b29c0db8c8bd8ecde22e718cc8ad1bf7
+  NOCProtoKit: 1eed77c8f171953c6632fbad8bc1d6f6ebf6b718
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: d457dd4b8370f06a4e8b773743887c6517414e21
+
+COCOAPODS: 1.3.1
